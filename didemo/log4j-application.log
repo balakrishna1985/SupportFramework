@@ -1,0 +1,8 @@
+2020-05-09 11:58:33 DEBUG DIFactory:32 - class does not have autocreate annotations ..
+2020-05-09 11:58:33 DEBUG DIFactory:39 - singleton
+2020-05-09 11:58:33 DEBUG AppTest:48 - singleton ojbect created and message is ::Hello this is Singgleton class....1
+2020-05-09 11:58:33 DEBUG DIFactory:39 - singleton
+2020-05-09 11:58:33 DEBUG DIFactory:41 - exisiting returned..
+2020-05-09 11:58:33 DEBUG AppTest:51 - singleton ojbect created and message is ::Hello this is Singgleton class....2
+2020-05-09 11:58:33 DEBUG AppTest:28 - prototype ojbect created and message is ::Hello ....this is protorype class..1
+2020-05-09 11:58:33 DEBUG AppTest:31 - prototype ojbect created and message is ::Hello ....this is protorype class..1
